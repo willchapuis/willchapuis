@@ -1,8 +1,10 @@
 ## GitHub Stats 🚀
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=willchapuis&show_icons=true&theme=tokyonight&count_private=true)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=willchapuis&theme=tokyonight&count_private=true" alt="mystreak"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willchapuis&theme=tokyonight&layout=compact&count_private=true)
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=willchapuis&theme=tokyonight&count_private=true" alt="mystreak"/></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=willchapuis&show_icons=true&theme=tokyonight&count_private=true" alt="willchapuis :: Profile Stats" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willchapuis&langs_count=10&theme=tokyonight&layout=compact" alt="willchapuis :: Top Langs" /></p>
 
 <!--
 **willchapuis/willchapuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
