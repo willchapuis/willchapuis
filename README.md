@@ -1,10 +1,10 @@
 ## GitHub Stats 🚀
 
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=willchapuis&show_icons=true&theme=tokyonight)
-</br>
+<!--![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=willchapuis&show_icons=true&theme=tokyonight)
+</br>-->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=willchapuis&theme=tokyonight" alt="mystreak"/>
-</br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willchapuis&langs_count=10&theme=tokyonight" alt="willchapuis :: Top Langs" />
+<!--</br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willchapuis&langs_count=10&theme=tokyonight" alt="willchapuis :: Top Langs" />-->
 
 <!--
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=willchapuis&theme=tokyonight&count_private=true" alt="mystreak"/></p>
