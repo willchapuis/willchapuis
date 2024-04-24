@@ -9,7 +9,7 @@
   
   <p> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=willchapuis&count_private=true&include_all_commits=true&layout=compact&langs_count=8&hide=html,css&theme=tokyonight" alt="willchapuis" /> </p>
   
-  <p> <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=willchapuis&count_private=true&include_all_commits=true&layout=compact&langs_count=6&hide=html,css&theme=tokyonight" alt="willchapuis" /> </p>
+  <!--<p> <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=willchapuis&count_private=true&include_all_commits=true&layout=compact&langs_count=6&hide=html,css&theme=tokyonight" alt="willchapuis" /> </p>-->
 </div>
 
   <hr/>
