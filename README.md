@@ -12,6 +12,12 @@
   <!--<p> <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=willchapuis&count_private=true&include_all_commits=true&layout=compact&langs_count=6&hide=html,css&theme=tokyonight" alt="willchapuis" /> </p>-->
 </div>
 
+<!--div align="center">
+  <p align="center">
+   <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=willchapuis&theme=dracule&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" alt="willchapuis">
+  </p>
+</div-->
+
   <hr/>
 
 <div align="center">
