@@ -5,7 +5,9 @@
  <hr/>
  
 <div align="center">
+  <!--
   <p> <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=willchapuis&count_private=true&include_all_commits=true&layout=compact&langs_count=8&hide=html,css&show_icons=true&theme=tokyonight" alt="willchapuis" /> </p>
+  -->
   
   <p> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=willchapuis&count_private=true&include_all_commits=true&layout=compact&langs_count=8&hide=html,css&theme=tokyonight" alt="willchapuis" /> </p>
   
@@ -24,7 +26,15 @@
   <!--<img src="https://img.shields.io/github/followers/willchapuis?label=Follow&style=social">-->
   <a href="https://www.linkedin.com/in/will-chapuis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
+<!--
+  <hr/>
+<!--
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/willchapuis/willchapuis/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/willchapuis/willchapuis/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/willchapuis/willchapuis/output/github-contribution-grid-snake.svg">
+</picture>
+-->
 <!--
   <img src="https://visitor-badge.laobi.icu/badge?page_id=willchapuis.willchapuis">
 </div>
