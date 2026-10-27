@@ -11,7 +11,7 @@
  
 <div align="center">
 
-  <p> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=willchapuis&count_private=true&include_all_commits=true&layout=compact&langs_count=8&hide=html,css&theme=tokyonight" alt="willchapuis" /> </p>
+  <p> <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=willchapuis&count_private=true&include_all_commits=true&layout=compact&langs_count=8&hide=html,css&theme=tokyonight" alt="willchapuis" /> </p>
   
   [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=willchapuis&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=willchapuis&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight)
   
